@@ -1,5 +1,6 @@
-unit module HTTP::Request::Supply::Test;
 use v6;
+
+unit module HTTP::Request::Supply::Test;
 
 use Test;
 use HTTP::Request::Supply;
